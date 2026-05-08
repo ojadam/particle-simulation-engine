@@ -37,3 +37,23 @@ python test_md_checks.py
 python md_animate.py
 python md_animate_3d.py
 ```
+
+## Sample Outputs
+
+### Core dynamics
+![Core dynamics plot](md_core_plots.png)
+
+### Analysis plots
+![Analysis plots](md_analysis_plots.png)
+
+### Sweep summary
+![Sweep summary](sweep_summary.png)
+
+### Sweep validation
+![Sweep validation](sweep_validation.png)
+
+### Benchmark summary
+![Benchmark summary](benchmark_summary.png)
+
+### Trajectory GIF
+![Trajectory animation](md_trajectory.gif)
