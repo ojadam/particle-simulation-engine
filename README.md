@@ -2,10 +2,10 @@
 
 A 3D particle simulation I built from scratch, with plots, parameter sweeps, and speed tests.
 
-## Portfolio Website
+## Project Website
 
-- Live project page: []()
-- 
+Live project page: []()
+
 ## What It Does
 
 - Simulates particles in 3D
