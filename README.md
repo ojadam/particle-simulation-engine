@@ -4,7 +4,7 @@ A 3D particle simulation I built from scratch, with plots, parameter sweeps, and
 
 ## Project Website
 
-Live project page: []()
+[]()
 
 ## What It Does
 
