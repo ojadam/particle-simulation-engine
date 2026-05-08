@@ -4,7 +4,7 @@ A 3D particle simulation I built from scratch, with plots, parameter sweeps, and
 
 ## Project Website
 
-[]()
+[Particle simulation website](https://particle-simulation-website.vercel.app)
 
 ## What It Does
 
